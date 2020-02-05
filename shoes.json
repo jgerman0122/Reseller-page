@@ -1,0 +1,21 @@
+[
+    {
+        "brand": "Jordan",
+        "name": "Air Jordan 1'Bred Toe' Retro",
+        "price": 160.00
+    },
+    {
+        "brand": "Jordan",
+        "name": "Air Jordan 1'Not for Sale' Retro",
+        "price": 175.00  
+    },
+    {
+        "brand": "Adidas",
+        "name": "Yeezy 350s'Blackout'",
+        "price": 220.00  
+    },
+    {   "brand": "Adidas",
+        "name": "Yeezy 350s 'frozen Yellow'",
+        "price": 220.00  
+    }
+]

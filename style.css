@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+
+.top {
+    color: orange;
+    padding-top: 40px;
+    text-align: center;
+    border-top: 20px;
+    background-image: url(vapormax.jpg);
+    height: 50vh;
+    background-size: cover;
+    background-position: center;
+    font-size: 25px;
+}
+
+#content {
+    padding-left:10px; 
+    padding-right: 10px;
+}
+
+.img {
+   width: 300px;
+   height: 250px;
+}
+
+p {
+    font-size: 20px;
+    color: orange;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.social-media {
+    font-size: 20px;
+    width: 75px;
+    height: 75px;
+}
+
+
